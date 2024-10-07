@@ -1,0 +1,17 @@
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\TowerOfHanoi.exe
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\TowerOfHanoi.deps.json
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\TowerOfHanoi.runtimeconfig.json
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\TowerOfHanoi.dll
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\TowerOfHanoi.pdb
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfH.7DDB642F.Up2Date
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.dll
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\refint\TowerOfHanoi.dll
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.pdb
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\TowerOfHanoi.genruntimeconfig.cache
+C:\Users\jakob\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\net8.0\ref\TowerOfHanoi.dll
